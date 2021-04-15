@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "starshop:items/starcoin"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -74, -5.25],
+			"translation": [0, 1.25, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -74, -5.25],
+			"translation": [0, 1.25, 0],
+			"scale": [0.3, 0.3, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-11, -76, -13],
+			"translation": [0, 1.75, 0],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-11, -76, -13],
+			"translation": [0, 1.75, 0],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 5, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 10.5, -0.25]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -1.25]
+		}
+	}
+}
